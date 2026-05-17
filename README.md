@@ -1,9 +1,9 @@
-## CARAMEL0, melhor amigo de artista que sofre com editais.
-![Caramel0V1](/assets/caramelov1.png)
+## Caram3l0, melhor amigo de artista que sofre com editais.
+![Caram3l0V1](/assets/caramelov1.png)
 
 ---
 
-## **O QUE É O** `CARAMEL0`**?**
+## **O QUE É O** `Caram3l0`**?**
 
 - **Procura editais culturais** em vários sites, nacionais e nordestinos.
 - Ao encontrar um edital, ele **dá uma olhada** para ver se tem o link para o documento (tipo um PDF), se tem prazo para se inscrever e se diz quais áreas podem participar.
@@ -14,7 +14,7 @@ Basicamente, ele é feito para encontrar e disparar atualizações sobre oportun
 
 ## COMO FUNCIONA?
 
-- A cada hora, `Caramel0` busca novos editais em vários sites cadastrados, procurando termos relevantes como “edital”, “chamada pública”, “oportunidade”, “patrocínio”, “seleção”, “incentivo” e outras palavras-chave relativas à fontes de financiamento.
+- A cada hora, `Caram3l0` busca novos editais em vários sites cadastrados, procurando termos relevantes como “edital”, “chamada pública”, “oportunidade”, “patrocínio”, “seleção”, “incentivo” e outras palavras-chave relativas à fontes de financiamento.
 - Extrai informações essenciais de potenciais editais encontrados.
 - Valida cada edital verificando a presença de:
     - **Link direto para o documento oficial** (.PDF, .DOCX, .DOC, .CVS, .PPTX, .PPT).
@@ -33,17 +33,17 @@ ETAPA5
 
 1) **FAREJANDO** *coleta de dados
 
-Uma vez/hora CARAMEL0 raspa dados de seu POTE DE RAÇÃO (desde oportunidades nacionais, até entes locais como FUNJOPE e JPCultural) procurando por arquivos e palavras-chaves comuns ("editais", "patrocínio", "seleção", "regulamento", "chamada pública", "inscrições abertas", "lei de fomento", etc) em anúncios de oportunidades de financiamento.
+Uma vez/hora Caram3l0 raspa dados de seu POTE DE RAÇÃO (desde oportunidades nacionais, até entes locais como FUNJOPE e JPCultural) procurando por arquivos e palavras-chaves comuns ("editais", "patrocínio", "seleção", "regulamento", "chamada pública", "inscrições abertas", "lei de fomento", etc) em anúncios de oportunidades de financiamento.
 
 2) **RABO LEVANTADO** *validação
 
-Ao se deparar com uma possível oportunidade, `Caramel0` verifica
+Ao se deparar com uma possível oportunidade, `Caram3l0` verifica
 
-2.1. **SE** esse edital já está no POTE. **SE SIM**, CARAMEL0 bate a data pra checar se é uma prorrogação. **SE FOR**, `Caramel0` dispara o latido de prorrogação; **SE NÃO** for prorrogação, `Caramel0` descansa (2.1.1. **RABO ABAIXADO** **Assync/Await*) até voltar pra primeira etapa na próxima hora. **SE NÃO** estiver no banco, ele continua fuçando para checar
+2.1. **SE** esse edital já está no POTE. **SE SIM**, Caram3l0 bate a data pra checar se é uma prorrogação. **SE FOR**, `Caram3l0` dispara o latido de prorrogação; **SE NÃO** for prorrogação, `Caram3l0` descansa (2.1.1. **RABO ABAIXADO** **Assync/Await*) até voltar pra primeira etapa na próxima hora. **SE NÃO** estiver no banco, ele continua fuçando para checar
 
 2.2. **SE** há um link de download direto para o arquivo do edital (.PDF, DOCX, .DOC, .PPT, PPTX, HTML, .CSV, RTF, PLAIN, .TXT, etc).
 
-2.3. **SE** o edital já expirou (se não tiver mais fonte disponível, `Caramel0` descansa (2.1.1. **RABO ABAIXADO**).
+2.3. **SE** o edital já expirou (se não tiver mais fonte disponível, `Caram3l0` descansa (2.1.1. **RABO ABAIXADO**).
 
 2.4. **SE** o plano de ação (cronograma) do edital e seus valores (orçamento total e por projeto) foram discriminados.
 
@@ -83,7 +83,7 @@ https://www.joaopessoa.pb.gov.br/categoria/noticias/
 
 4) **LATIDO5** - Agitação e Propagação
 
-Com editais filtrados, validados e armazenados, é hora de mostrá-los! Assim que um edital concluir sua etapa de raspagem, CARAMEL0 ira formatar as informações capturadas e as distribuirá para o canal do Discord, no Whatsapp e no SITE do app bezerramos.cc/caramel0
+Com editais filtrados, validados e armazenados, é hora de mostrá-los! Assim que um edital concluir sua etapa de raspagem, Caram3l0 ira formatar as informações capturadas e as distribuirá para o canal do Discord, no Whatsapp e no SITE do app
 
 T3CH STACK
 JavaScript
