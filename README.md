@@ -1,4 +1,4 @@
-# 🐶 Caram3l0
+# 🐶 Caram3l0 app
 
 > O melhor amigo do artista que sofre com editais culturais.
 
@@ -12,7 +12,7 @@
 
 ## 📌 O que é o Caram3l0?
 
-O **Caram3l0** é um assistente automatizado (bot) desenvolvido para encontrar, validar e disparar atualizações sobre oportunidades de patrocínio e financiamento para projetos culturais. O foco principal da ferramenta está na região de **João Pessoa (Paraíba)** e no **Norte-Nordeste** do Brasil, ajudando artistas locais a não perderem prazos importantes.
+**Caram3l0** é a força-tarefa de editais da ![Poligonal Hub](https://poligonalhub/) Pra facilitar a vida dessa força-tarefa o Caram3l0 app foi idealizado. Notando que essa ideia teria impacto de utilidade pública, o projeto Caram3l0 ingressou no movimento de código aberto. O Caram3l0 app é um assistente automatizado (bot) desenvolvido para encontrar, validar e disparar atualizações sobre oportunidades de patrocínio e financiamento para projetos culturais. O foco principal da ferramenta está na região de **João Pessoa (Paraíba)** e no **Norte-Nordeste** do Brasil, ajudando artistas locais a não perderem prazos importantes.
 
 ### 🎯 Funções Principais
 * **Busca Ativa:** Procura editais culturais em múltiplos portais nacionais e regionais.
